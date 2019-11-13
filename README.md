@@ -1,4 +1,4 @@
-# AmericanHospitalRanking
+# American Hospital Ranking in R
 American Hospital Ranking
 
 ____________________________________________________________________________________________________
